@@ -9,3 +9,5 @@ shell percentage and the percentage of defective cocoons. lf the percentage of d
 occurrence. An account of defective cocoons is given under.
 # lnside Stained/Melt cocoons
 Dead cocoons are also known as melted cocoons. ln this case, the pupa is dead and sticks to the inside shell of the cocoon causing a stain. Melted cocoons are called mutes because they do not make a sound when shaken. These cocoons are difficult to process and will result in silk which is dull in colour.
+# Result of classification
+finally foud that vgg based transfer learning is giving good predictions and accuracy

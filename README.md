@@ -9,5 +9,15 @@ shell percentage and the percentage of defective cocoons. lf the percentage of d
 occurrence. An account of defective cocoons is given under.
 # lnside Stained/Melt cocoons
 Dead cocoons are also known as melted cocoons. ln this case, the pupa is dead and sticks to the inside shell of the cocoon causing a stain. Melted cocoons are called mutes because they do not make a sound when shaken. These cocoons are difficult to process and will result in silk which is dull in colour.
+# Outside stained cocoons (dead cocoons)
+These are recognized by a rusty colour spot on the cocoon shell caused by absorption of intestinal fluid/urine of the mature worm formed during mounting. Reelability is very poor in this case.
+# Montage pressed cocoons
+this is the defect happens due to improper mounting frames.they are also callled as scaffold presses cocoons
+# Deformed cocoons
+these are abnormally shaped cocoons.this defect may be due to racial characteristics
+# Flimsy cocoons
+the shell is lossly spun in layers and has a low silk content.These cocoons are produceing wastes and easily overcooked
+# Thin end cocoons
+One or both the ends of the cocoons are thin and there is a risk of bursting when processed .the cause of tis defect may be attributed to racial characteristics or impropper temperature and humdity during rearing and mounting.
 # Result of classification
 finally foud that vgg based transfer learning is giving good predictions and accuracy
